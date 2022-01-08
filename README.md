@@ -1,25 +1,25 @@
 # Goorm Shell Auto Deploy
 
-一键部署 `goorm shell` 以下简称 `goorm` 科学上网的脚本
+一Развертывание ключ `goorm shell` Именуемый в дальнейшем `goorm` Научный интернет-скрипт
 
-## 几点提示：
-- 1、安装完程序后，断线或外部vm重置后无需重新安装，只要登录`goorm`后，服务程序会自动执行
-- 2、本脚本只保证支持当前版本的`goorm`，其他shell可自行研究、修改
+## Несколько советов：
+- 1、После установки программы нет необходимости переустановить после строки или внешнего сброса VM, до тех пор, пока вы входите в `goorm`, процедура обслуживания будет автоматизировать
+- 2、Этот скрипт гарантирует только текущую версию `goorm`, другие оболочки могут учиться, изменить
 
-## 安装步骤
+## Шаги установки
 
-### 1、登录`goorm`
+### 1、Авторизоваться `goorm`
 [goorm shell](https://ide-run.goorm.io/)
 
-### 2、执行以下代码
+### 2、Выполнить следующий код
 `bash <(curl -s -L https://raw.githubusercontent.com/guleonseon/goorm-auto/master/install.sh)`
 
-### 3、开放内部端口
+### 3、Открытый внутренний порт
 ![image](https://github.com/guleonseon/goorm-auto/blob/master/port.png)
 
-### 4、愉快的科学上网
-在系统代理或者chrome的[SwithyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)配置你的代理服务器和端口，注意选择`socks5`
+### 4、Счастливые науки
+В системном агенте или chrome из [SwithyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) Настройте свой прокси-сервер и порт，Обратите внимание на выбор `socks5`
 ![image](https://github.com/guleonseon/goorm-auto/blob/master/proxy.png)
 
-## 结束，撒花，好用的话给个 Star
+## Конец, посыпать, дать ей легко Star
 
